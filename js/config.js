@@ -119,6 +119,152 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
+    ckzy: {
+           api: 'https://ckzy.me/api.php/provide/vod',
+           name: 'CK资源',
+		   detail: 'https://ckzy.me',
+           adult: true
+       },
+       kbzy: {
+           api: 'https://gayapi.com/api.php/provide/vod',
+           name: '快播资源',
+           detail: 'https://gayapi.com',
+		   adult: true
+       },
+       dnzzy: {
+           api: 'https://apidanaizi.com/api.php/provide/vod',
+           name: '大奶子资源',
+           detail: 'https://apidanaizi.com',
+	       adult: true
+       },
+       xbzy: {
+           api: 'https://xingba111.com/api.php/provide/vod',
+           name: '杏吧资源',
+           detail: 'https://xingba111.com',
+	       adult: true
+       },
+       hsckzy: {
+           api: 'https://hsckzy.vip/api.php/provide/vod',
+           name: '黄色仓库资源',
+           detail: 'https://hsckzy.vip',
+	       adult: true
+       },
+       xxbzy: {
+           api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+           name: 'X细胞资源',
+           detail: 'https://www.xxibaozyw.com',
+	       adult: true
+       },
+       lsbzy: {
+           api: 'https://apilsbzy1.com/api.php/provide/vod',
+           name: '老色逼资源',
+           detail: 'https://apilsbzy1.com',
+		   adult: true
+       },
+       slzy2: {
+          api: 'https://slapibf.com/api.php/provide/vod',
+          name: '森林资源',
+          detail: 'https://slapibf.com',
+	      adult: true
+       },
+       swzy: {
+           api: 'https://siwazyw.tv/api.php/provide/vod',
+           name: '丝袜资源',
+           detail: 'https://siwazyw.tv',
+	       adult: true
+       },
+       smzy: {
+           api: 'https://caiji.semaozy.net/inc/apijson_vod',
+           name: '色猫资源',
+           detail: 'https://caiji.semaozy.net',
+	       adult: true
+       },
+       jkunaklmzy: {
+           api: 'https://jkunzyapi.com/api.php/provide/vod',
+           name: 'jkun爱坤联盟资源',
+           detail: 'https://jkunzyapi.com',
+		   adult: true
+       },
+       jkun: {
+           api: 'https://jkunzyapi.com',
+           name: 'jkun资源',
+           adult: true
+       },
+       bwzy: {
+           api: 'https://api.bwzym3u8.com/api.php/provide/vod',
+           name: '百万资源',
+		   detail: 'https://api.bwzym3u8.com',
+           adult: true
+       },
+       souav: {
+          api: 'https://api.souavzy.vip/api.php/provide/vod',
+          name: 'souav资源',
+		  detail: 'https://api.souavzy.vip',
+          adult: true
+       },
+       r155zy: {
+           api: 'https://155api.com/api.php/provide/vod',
+           name: '155资源',
+		   detail: 'https://155api.com',
+           adult: true
+       },
+       lsb: {
+           api: 'https://apilsbzy1.com',
+           name: 'lsb资源',
+           adult: true
+       },
+	   didi: {
+           api: 'https://api.ddapi.cc/api.php/provide/vod',
+           name: '滴滴资源',
+           adult: true
+       },
+	   aivin: {
+           api: 'http://lbapiby.com/api.php/provide/vod',
+           name: 'AIvinv资源',
+           adult: true
+       },
+       huangcang: {
+           api: 'https://hsckzy.vip',
+           name: '黄色仓库',
+           adult: true,
+           detail: 'https://hsckzy.vip'
+       },
+       yutu: {
+           api: 'https://yutuzy10.com/api.php/provide/vod',
+           name: '玉兔资源',
+		   detail: 'https://yutuzy10.com',
+           adult: true
+       },
+	   mado: {
+           api: 'https://www.md44.cc/api.php/provide/vod',
+           name: '麻豆资源',
+           adult: true
+       },
+       xiangnaier: {
+           api: 'https://www.gdlsp.com/api/xml.php',
+           name: '香奶儿',
+           adult: true
+       },
+       dadi: {
+           api: 'https://dadiapi.com/api.php',
+           name: '大地资源',
+           adult: true
+       },
+       lebo: {
+           api: 'https://lbapi9.com/api.php/provide/vod',
+           name: '乐播资源',
+           adult: true
+       },
+       fanhao: {
+           api: 'http://fhapi9.com/api.php/provide/vod',
+           name: '番号资源',
+           adult: true
+       },
+       sl: {
+           api: 'https://senlinzy3.com/api.php/provide/vod',
+           name: '森林资源',
+           adult: true
+       },
 };
 
 // 定义合并方法
