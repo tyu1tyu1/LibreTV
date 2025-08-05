@@ -48,6 +48,11 @@ const API_SITES = {
         name: '非凡影视',
         detail: 'http://ffzy5.tv', 
     },
+    aikan: {
+        api: 'https://u.aikanbot.com',
+        name: '爱看机器人',
+        detail: 'https://u.aikanbot.com', 
+    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
